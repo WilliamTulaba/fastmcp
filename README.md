@@ -2,7 +2,7 @@
 
 <!-- omit in toc -->
 # FastMCP v2 🚀
-
+#security scan
 <strong>The fast, Pythonic way to build MCP servers and clients.</strong>
 
 *Made with ☕️ by [Prefect](https://www.prefect.io/)*
